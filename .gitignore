@@ -1,0 +1,19 @@
+# MovieLens data (not committed -- see data/README.md for download instructions)
+data/*.dat
+data/*.zip
+data/ml-1m/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
