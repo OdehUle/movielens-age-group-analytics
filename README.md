@@ -145,4 +145,4 @@ This is a portfolio/learning project, not a production system:
 ## Author
 
 Moses — Industrial Mathematics graduate, background in data analytics
-(Power BI, SQL, Python) and secondary school mathematics teaching.
+(Power BI, SQL, Python).
