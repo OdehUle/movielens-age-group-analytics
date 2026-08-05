@@ -3,6 +3,13 @@ data/*.dat
 data/*.zip
 data/ml-1m/
 
+# Power BI file (bundles a compressed copy of the imported data -- rebuild
+# via dashboard/README.md instead of committing this directly; if you want
+# to share the report shape without the data, export a .pbit template and
+# commit that instead, it's tiny by comparison)
+*.pbix
+recommender_showcase.csv
+
 # Python
 __pycache__/
 *.pyc
